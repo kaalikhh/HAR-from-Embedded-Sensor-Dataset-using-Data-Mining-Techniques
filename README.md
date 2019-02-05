@@ -1,0 +1,1 @@
+# HAR-from-Embedded-Sensor-Dataset-using-Data-Mining-Techniques
